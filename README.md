@@ -1,3 +1,3 @@
-# angular-dbrt7n
+# info3170-Angular
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-dbrt7n)
+[Based on StackBlitz ⚡️](https://stackblitz.com/edit/angular-dbrt7n)
