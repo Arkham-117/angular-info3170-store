@@ -11,7 +11,12 @@ export class ProductListComponent {
   products = products;
 
   share() {
-    window.alert('The product has been shared!');
+    window.alert('The product has been added to cart!');
+    //TODO: Write the code to add to cart
+  }
+
+  onNotify() {
+    window.alert('Notify me of a sale');
   }
 }
 
