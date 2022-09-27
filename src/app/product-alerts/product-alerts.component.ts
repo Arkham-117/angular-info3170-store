@@ -1,9 +1,15 @@
 import { 
   Component, 
   OnInit, 
+<<<<<<< HEAD
   Input, 
   Output, 
   EventEmitter 
+=======
+  Input,
+  Output,
+  EventEmitter
+>>>>>>> 35e4e092afd0217305698c8cb22c0b7b910ec7af
 } from '@angular/core';
 import { Product } from '../products';
 
@@ -19,7 +25,14 @@ export class ProductAlertsComponent implements OnInit {
   ngOnInit(): void {
   }
 
+<<<<<<< HEAD
   @Input() product!: Product;
   @Output() notify = new EventEmitter();
 
 }
+=======
+  @Input() product!:Product;
+  @Output() notify = new EventEmitter();
+
+}
+>>>>>>> 35e4e092afd0217305698c8cb22c0b7b910ec7af
